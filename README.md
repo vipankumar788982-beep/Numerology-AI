@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Numerology Insight
 
 A complete production-ready responsive web application that generates full numerology reports using the Pythagorean numerology method with multi-language support.
@@ -110,3 +111,7 @@ Ready for deployment to platforms like Vercel (frontend) and Render/Railway (bac
 ## License
 
 MIT
+=======
+# Numerology-AI
+Numerology AI website with Node.js and MongoDB
+>>>>>>> efff1aeeba75bdadf625550cd1819b80ce8cc0ff
