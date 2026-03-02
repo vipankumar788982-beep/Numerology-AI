@@ -1,0 +1,40 @@
+{
+  "lifePathNumber": {
+    "1": { "title": "القائد", "description": "أنت قائد بالفطرة", "strengths": ["القيادة"], "weaknesses": ["العناد"], "career": ["رائد أعمال"], "relationships": "تحتاج إلى شريك يحترم استقلاليتك", "luckyNumbers": [1, 10, 19, 28] },
+    "2": { "title": "صانع السلام", "description": "أنت دبلوماسي", "strengths": ["الدبلوماسية"], "weaknesses": ["التردد"], "career": ["مستشار"], "relationships": "تزدهر في الشراكات", "luckyNumbers": [2, 11, 20, 29] },
+    "3": { "title": "المبدع", "description": "أنت معبر", "strengths": ["الإبداع"], "weaknesses": ["التشتت"], "career": ["فنان"], "relationships": "تحتاج إلى الإبداع", "luckyNumbers": [3, 12, 21, 30] },
+    "4": { "title": "البناء", "description": "أنت عملي", "strengths": ["الانضباط"], "weaknesses": ["الصلابة"], "career": ["مهندس"], "relationships": "تقدر الاستقرار", "luckyNumbers": [4, 13, 22, 31] },
+    "5": { "title": "المغامر", "description": "أنت متعدد المواهب", "strengths": ["القدرة على التكيف"], "weaknesses": ["القلق"], "career": ["مسافر"], "relationships": "تحتاج إلى الحرية", "luckyNumbers": [5, 14, 23] },
+    "6": { "title": "المعتني", "description": "أنت مسؤول", "strengths": ["الرحمة"], "weaknesses": ["القلق"], "career": ["معلم"], "relationships": "أنت مخلص", "luckyNumbers": [6, 15, 24] },
+    "7": { "title": "الباحث", "description": "أنت تحليلي", "strengths": ["الحكمة"], "weaknesses": ["العزلة"], "career": ["باحث"], "relationships": "تحتاج إلى اتصال فكري", "luckyNumbers": [7, 16, 25] },
+    "8": { "title": "القوي", "description": "أنت طموح", "strengths": ["الطموح"], "weaknesses": ["المادية"], "career": ["تنفيذي"], "relationships": "تبحث عن شركاء طموحين", "luckyNumbers": [8, 17, 26] },
+    "9": { "title": "الإنساني", "description": "أنت رحيم", "strengths": ["الكرم"], "weaknesses": ["عدم العملية"], "career": ["عامل إنساني"], "relationships": "تبحث عن روابط عميقة", "luckyNumbers": [9, 18, 27] },
+    "11": { "title": "الرسول الروحي", "description": "أنت بديهي", "strengths": ["الحدس"], "weaknesses": ["العصبية"], "career": ["معلم روحي"], "relationships": "تحتاج إلى عمق روحي", "luckyNumbers": [11, 2, 29] },
+    "22": { "title": "البناء الرئيسي", "description": "أنت صاحب رؤية", "strengths": ["الرؤية"], "weaknesses": ["الضغط"], "career": ["مهندس معماري"], "relationships": "تحتاج إلى الدعم", "luckyNumbers": [22, 4, 13] },
+    "33": { "title": "المعلم الرئيسي", "description": "أنت المعتني النهائي", "strengths": ["الرحمة"], "weaknesses": ["الاستشهاد"], "career": ["معالج"], "relationships": "تعطي بلا شروط", "luckyNumbers": [33, 6, 15] }
+  },
+  "birthdayNumber": {
+    "1": { "trait": "مستقل" }, "2": { "trait": "متعاون" }, "3": { "trait": "مبدع" }, "4": { "trait": "عملي" }, "5": { "trait": "مغامر" }, "6": { "trait": "مسؤول" }, "7": { "trait": "تحليلي" }, "8": { "trait": "طموح" }, "9": { "trait": "رحيم" }, "11": { "trait": "بديهي" }, "22": { "trait": "صاحب رؤية" }
+  },
+  "expressionNumber": {
+    "1": { "destiny": "القيادة" }, "2": { "destiny": "التنسيق" }, "3": { "destiny": "التعبير" }, "4": { "destiny": "البناء" }, "5": { "destiny": "الاستكشاف" }, "6": { "destiny": "الرعاية" }, "7": { "destiny": "البحث عن الحقيقة" }, "8": { "destiny": "النجاح" }, "9": { "destiny": "الخدمة" }, "11": { "destiny": "الإلهام" }, "22": { "destiny": "التجسيد" }, "33": { "destiny": "التعليم" }
+  },
+  "soulUrgeNumber": {
+    "1": { "desire": "أن تكون مستقلاً" }, "2": { "desire": "خلق السلام" }, "3": { "desire": "التعبير عن نفسك" }, "4": { "desire": "خلق النظام" }, "5": { "desire": "تجربة الحرية" }, "6": { "desire": "رعاية الآخرين" }, "7": { "desire": "فهم الأسرار" }, "8": { "desire": "تحقيق النجاح" }, "9": { "desire": "تحسين العالم" }, "11": { "desire": "الإلهام" }, "22": { "desire": "بناء شيء دائم" }, "33": { "desire": "خدمة الإنسانية" }
+  },
+  "personalityNumber": {
+    "1": { "impression": "واثق" }, "2": { "impression": "لطيف" }, "3": { "impression": "ساحر" }, "4": { "impression": "موثوق" }, "5": { "impression": "ديناميكي" }, "6": { "impression": "دافئ" }, "7": { "impression": "غامض" }, "8": { "impression": "قوي" }, "9": { "impression": "رحيم" }, "11": { "impression": "ملهم" }, "22": { "impression": "قادر" }
+  },
+  "maturityNumber": {
+    "1": { "later": "ستصبح أكثر استقلالية" }, "2": { "later": "ستطور الدبلوماسية" }, "3": { "later": "ستعبر عن نفسك بشكل إبداعي" }, "4": { "later": "ستبني أسساً مستقرة" }, "5": { "later": "ستحتضن التغيير" }, "6": { "later": "ستتحمل المزيد من المسؤولية" }, "7": { "later": "ستبحث عن الفهم الروحي" }, "8": { "later": "ستحقق النجاح المادي" }, "9": { "later": "ستخدم بشكل كامل" }, "11": { "later": "ستلهم الآخرين" }, "22": { "later": "ستجسد رؤى عظيمة" }
+  },
+  "personalYearNumber": {
+    "1": { "year": "بدايات جديدة" }, "2": { "year": "التعاون" }, "3": { "year": "الإبداع" }, "4": { "year": "العمل الجاد" }, "5": { "year": "التغيير" }, "6": { "year": "المسؤولية" }, "7": { "year": "التأمل" }, "8": { "year": "الإنجازات" }, "9": { "year": "الإكمال" }
+  },
+  "karmicDebt": {
+    "13": { "number": "13/4", "meaning": "دين كارمي من الكسل" },
+    "14": { "number": "14/5", "meaning": "دين كارمي من سوء استخدام الحرية" },
+    "16": { "number": "16/7", "meaning": "دين كارمي من الأنا" },
+    "19": { "number": "19/1", "meaning": "دين كارمي من سوء استخدام السلطة" }
+  }
+}

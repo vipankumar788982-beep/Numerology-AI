@@ -1,0 +1,208 @@
+{
+  "lifePathNumber": {
+    "1": {
+      "title": "The Leader",
+      "description": "You are a natural-born leader with strong independence and determination. Your path is about pioneering new ideas and taking initiative.",
+      "strengths": ["Leadership", "Independence", "Innovation", "Courage", "Determination"],
+      "weaknesses": ["Stubbornness", "Impatience", "Domineering", "Self-centeredness"],
+      "career": ["Entrepreneur", "CEO", "Manager", "Inventor", "Designer"],
+      "relationships": "You need a partner who respects your independence and supports your ambitions.",
+      "luckyNumbers": [1, 10, 19, 28]
+    },
+    "2": {
+      "title": "The Peacemaker",
+      "description": "You are diplomatic, sensitive, and cooperative. Your path is about creating harmony and building partnerships.",
+      "strengths": ["Diplomacy", "Cooperation", "Sensitivity", "Patience", "Intuition"],
+      "weaknesses": ["Over-sensitivity", "Indecisiveness", "Dependency", "Passivity"],
+      "career": ["Counselor", "Mediator", "Teacher", "Diplomat", "Social Worker"],
+      "relationships": "You thrive in partnerships and seek deep emotional connections.",
+      "luckyNumbers": [2, 11, 20, 29]
+    },
+    "3": {
+      "title": "The Creative Communicator",
+      "description": "You are expressive, creative, and social. Your path is about self-expression and bringing joy to others.",
+      "strengths": ["Creativity", "Communication", "Optimism", "Social Skills", "Artistic Talent"],
+      "weaknesses": ["Scattered Energy", "Superficiality", "Exaggeration", "Mood Swings"],
+      "career": ["Artist", "Writer", "Performer", "Designer", "Marketing Professional"],
+      "relationships": "You need a partner who appreciates your creativity and social nature.",
+      "luckyNumbers": [3, 12, 21, 30]
+    },
+    "4": {
+      "title": "The Builder",
+      "description": "You are practical, disciplined, and hardworking. Your path is about creating solid foundations and systems.",
+      "strengths": ["Discipline", "Organization", "Reliability", "Practicality", "Loyalty"],
+      "weaknesses": ["Rigidity", "Stubbornness", "Narrow-mindedness", "Workaholic Tendencies"],
+      "career": ["Engineer", "Accountant", "Architect", "Manager", "Administrator"],
+      "relationships": "You value stability and commitment in relationships.",
+      "luckyNumbers": [4, 13, 22, 31]
+    },
+    "5": {
+      "title": "The Freedom Seeker",
+      "description": "You are adventurous, versatile, and freedom-loving. Your path is about experiencing life fully and embracing change.",
+      "strengths": ["Adaptability", "Versatility", "Curiosity", "Enthusiasm", "Resourcefulness"],
+      "weaknesses": ["Restlessness", "Impulsiveness", "Irresponsibility", "Inconsistency"],
+      "career": ["Travel Agent", "Sales", "Journalist", "Entrepreneur", "Event Planner"],
+      "relationships": "You need freedom and variety in relationships.",
+      "luckyNumbers": [5, 14, 23]
+    },
+    "6": {
+      "title": "The Nurturer",
+      "description": "You are responsible, caring, and service-oriented. Your path is about creating harmony and caring for others.",
+      "strengths": ["Compassion", "Responsibility", "Nurturing", "Harmony", "Service"],
+      "weaknesses": ["Perfectionism", "Worry", "Self-righteousness", "Interference"],
+      "career": ["Teacher", "Nurse", "Counselor", "Interior Designer", "Chef"],
+      "relationships": "You are devoted and seek stable, harmonious relationships.",
+      "luckyNumbers": [6, 15, 24]
+    },
+    "7": {
+      "title": "The Seeker",
+      "description": "You are analytical, spiritual, and introspective. Your path is about seeking truth and understanding life's mysteries.",
+      "strengths": ["Analytical Mind", "Intuition", "Wisdom", "Spirituality", "Perfectionism"],
+      "weaknesses": ["Aloofness", "Skepticism", "Isolation", "Overthinking"],
+      "career": ["Researcher", "Analyst", "Scientist", "Philosopher", "Spiritual Teacher"],
+      "relationships": "You need intellectual and spiritual connection in relationships.",
+      "luckyNumbers": [7, 16, 25]
+    },
+    "8": {
+      "title": "The Powerhouse",
+      "description": "You are ambitious, authoritative, and success-oriented. Your path is about achieving material success and personal power.",
+      "strengths": ["Ambition", "Leadership", "Business Acumen", "Confidence", "Efficiency"],
+      "weaknesses": ["Materialism", "Workaholism", "Domination", "Impatience"],
+      "career": ["Executive", "Banker", "Real Estate", "Entrepreneur", "Lawyer"],
+      "relationships": "You seek partners who understand your ambitions and drive.",
+      "luckyNumbers": [8, 17, 26]
+    },
+    "9": {
+      "title": "The Humanitarian",
+      "description": "You are compassionate, idealistic, and humanitarian. Your path is about serving humanity and making the world better.",
+      "strengths": ["Compassion", "Idealism", "Generosity", "Wisdom", "Artistic Talent"],
+      "weaknesses": ["Impracticality", "Emotional Volatility", "Martyrdom", "Disconnection"],
+      "career": ["Humanitarian Worker", "Artist", "Teacher", "Healer", "Counselor"],
+      "relationships": "You seek deep, meaningful connections with universal love.",
+      "luckyNumbers": [9, 18, 27]
+    },
+    "11": {
+      "title": "The Spiritual Messenger",
+      "description": "You are intuitive, inspirational, and spiritually aware. Your path is about enlightening others and serving as a spiritual guide.",
+      "strengths": ["Intuition", "Inspiration", "Idealism", "Spiritual Awareness", "Charisma"],
+      "weaknesses": ["Nervousness", "Impracticality", "Fanaticism", "Self-doubt"],
+      "career": ["Spiritual Teacher", "Motivational Speaker", "Artist", "Healer", "Counselor"],
+      "relationships": "You need spiritual and emotional depth in relationships.",
+      "luckyNumbers": [11, 2, 29]
+    },
+    "22": {
+      "title": "The Master Builder",
+      "description": "You are a visionary with the ability to turn dreams into reality. Your path is about building something of lasting value.",
+      "strengths": ["Vision", "Practicality", "Leadership", "Discipline", "Manifestation"],
+      "weaknesses": ["Pressure", "Overwhelm", "Perfectionism", "Anxiety"],
+      "career": ["Architect", "Engineer", "CEO", "Politician", "Social Reformer"],
+      "relationships": "You need a partner who supports your grand visions.",
+      "luckyNumbers": [22, 4, 13]
+    },
+    "33": {
+      "title": "The Master Teacher",
+      "description": "You are the ultimate nurturer and teacher. Your path is about uplifting humanity through love and service.",
+      "strengths": ["Compassion", "Healing", "Teaching", "Selflessness", "Wisdom"],
+      "weaknesses": ["Martyrdom", "Emotional Burden", "Unrealistic Expectations"],
+      "career": ["Teacher", "Healer", "Spiritual Leader", "Counselor", "Humanitarian"],
+      "relationships": "You give unconditionally and seek partners who appreciate your service.",
+      "luckyNumbers": [33, 6, 15]
+    }
+  },
+  "birthdayNumber": {
+    "1": { "trait": "Independent and ambitious" },
+    "2": { "trait": "Cooperative and diplomatic" },
+    "3": { "trait": "Creative and expressive" },
+    "4": { "trait": "Practical and organized" },
+    "5": { "trait": "Adventurous and freedom-loving" },
+    "6": { "trait": "Responsible and caring" },
+    "7": { "trait": "Analytical and spiritual" },
+    "8": { "trait": "Ambitious and powerful" },
+    "9": { "trait": "Compassionate and humanitarian" },
+    "11": { "trait": "Intuitive and inspirational" },
+    "22": { "trait": "Visionary and practical" }
+  },
+  "expressionNumber": {
+    "1": { "destiny": "To lead and innovate" },
+    "2": { "destiny": "To create harmony and partnerships" },
+    "3": { "destiny": "To express creativity and joy" },
+    "4": { "destiny": "To build solid foundations" },
+    "5": { "destiny": "To experience freedom and change" },
+    "6": { "destiny": "To nurture and serve" },
+    "7": { "destiny": "To seek truth and wisdom" },
+    "8": { "destiny": "To achieve material success" },
+    "9": { "destiny": "To serve humanity" },
+    "11": { "destiny": "To inspire and enlighten" },
+    "22": { "destiny": "To manifest grand visions" },
+    "33": { "destiny": "To teach and heal humanity" }
+  },
+  "soulUrgeNumber": {
+    "1": { "desire": "To be independent and lead" },
+    "2": { "desire": "To create peace and harmony" },
+    "3": { "desire": "To express yourself creatively" },
+    "4": { "desire": "To create order and stability" },
+    "5": { "desire": "To experience freedom and adventure" },
+    "6": { "desire": "To care for and nurture others" },
+    "7": { "desire": "To understand life's mysteries" },
+    "8": { "desire": "To achieve success and recognition" },
+    "9": { "desire": "To make the world a better place" },
+    "11": { "desire": "To inspire and uplift others" },
+    "22": { "desire": "To build something of lasting value" },
+    "33": { "desire": "To serve and heal humanity" }
+  },
+  "personalityNumber": {
+    "1": { "impression": "Confident and independent" },
+    "2": { "impression": "Gentle and diplomatic" },
+    "3": { "impression": "Charming and expressive" },
+    "4": { "impression": "Reliable and practical" },
+    "5": { "impression": "Dynamic and adventurous" },
+    "6": { "impression": "Warm and responsible" },
+    "7": { "impression": "Mysterious and intellectual" },
+    "8": { "impression": "Powerful and successful" },
+    "9": { "impression": "Compassionate and wise" },
+    "11": { "impression": "Inspiring and charismatic" },
+    "22": { "impression": "Visionary and capable" }
+  },
+  "maturityNumber": {
+    "1": { "later": "You'll become more independent and self-reliant" },
+    "2": { "later": "You'll develop greater diplomacy and cooperation" },
+    "3": { "later": "You'll express yourself more creatively" },
+    "4": { "later": "You'll build more stable foundations" },
+    "5": { "later": "You'll embrace more freedom and change" },
+    "6": { "later": "You'll take on more responsibility and service" },
+    "7": { "later": "You'll seek deeper spiritual understanding" },
+    "8": { "later": "You'll achieve greater material success" },
+    "9": { "later": "You'll serve humanity more fully" },
+    "11": { "later": "You'll inspire and enlighten others" },
+    "22": { "later": "You'll manifest your grandest visions" }
+  },
+  "personalYearNumber": {
+    "1": { "year": "New beginnings, fresh starts, and taking initiative" },
+    "2": { "year": "Cooperation, patience, and building relationships" },
+    "3": { "year": "Creativity, self-expression, and social activities" },
+    "4": { "year": "Hard work, building foundations, and organization" },
+    "5": { "year": "Change, freedom, and new experiences" },
+    "6": { "year": "Responsibility, family, and service to others" },
+    "7": { "year": "Introspection, spiritual growth, and rest" },
+    "8": { "year": "Achievement, recognition, and material success" },
+    "9": { "year": "Completion, letting go, and humanitarian service" }
+  },
+  "karmicDebt": {
+    "13": {
+      "number": "13/4",
+      "meaning": "Karmic debt related to laziness or taking shortcuts in past lives. Focus on hard work and discipline."
+    },
+    "14": {
+      "number": "14/5",
+      "meaning": "Karmic debt related to misuse of freedom. Learn moderation and responsibility."
+    },
+    "16": {
+      "number": "16/7",
+      "meaning": "Karmic debt related to ego and relationships. Focus on humility and spiritual growth."
+    },
+    "19": {
+      "number": "19/1",
+      "meaning": "Karmic debt related to misuse of power. Learn to serve others and practice humility."
+    }
+  }
+}

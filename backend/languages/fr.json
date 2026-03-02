@@ -1,0 +1,40 @@
+{
+  "lifePathNumber": {
+    "1": { "title": "Le Leader", "description": "Vous êtes un leader né.", "strengths": ["Leadership"], "weaknesses": ["Entêtement"], "career": ["Entrepreneur"], "relationships": "Vous avez besoin d'indépendance.", "luckyNumbers": [1, 10, 19, 28] },
+    "2": { "title": "Le Pacificateur", "description": "Vous êtes diplomatique.", "strengths": ["Diplomatie"], "weaknesses": ["Indécision"], "career": ["Conseiller"], "relationships": "Vous prospérez en partenariat.", "luckyNumbers": [2, 11, 20, 29] },
+    "3": { "title": "Le Communicateur", "description": "Vous êtes expressif.", "strengths": ["Créativité"], "weaknesses": ["Dispersion"], "career": ["Artiste"], "relationships": "Vous avez besoin de créativité.", "luckyNumbers": [3, 12, 21, 30] },
+    "4": { "title": "Le Constructeur", "description": "Vous êtes pratique.", "strengths": ["Discipline"], "weaknesses": ["Rigidité"], "career": ["Ingénieur"], "relationships": "Vous valorisez la stabilité.", "luckyNumbers": [4, 13, 22, 31] },
+    "5": { "title": "L'Aventurier", "description": "Vous êtes polyvalent.", "strengths": ["Adaptabilité"], "weaknesses": ["Agitation"], "career": ["Voyageur"], "relationships": "Vous avez besoin de liberté.", "luckyNumbers": [5, 14, 23] },
+    "6": { "title": "Le Soignant", "description": "Vous êtes responsable.", "strengths": ["Compassion"], "weaknesses": ["Inquiétude"], "career": ["Enseignant"], "relationships": "Vous êtes dévoué.", "luckyNumbers": [6, 15, 24] },
+    "7": { "title": "Le Chercheur", "description": "Vous êtes analytique.", "strengths": ["Sagesse"], "weaknesses": ["Isolement"], "career": ["Chercheur"], "relationships": "Vous avez besoin de connexion intellectuelle.", "luckyNumbers": [7, 16, 25] },
+    "8": { "title": "Le Puissant", "description": "Vous êtes ambitieux.", "strengths": ["Ambition"], "weaknesses": ["Matérialisme"], "career": ["Exécutif"], "relationships": "Vous cherchez des partenaires ambitieux.", "luckyNumbers": [8, 17, 26] },
+    "9": { "title": "L'Humanitaire", "description": "Vous êtes compatissant.", "strengths": ["Générosité"], "weaknesses": ["Impraticabilité"], "career": ["Travailleur humanitaire"], "relationships": "Vous cherchez des connexions profondes.", "luckyNumbers": [9, 18, 27] },
+    "11": { "title": "Le Messager Spirituel", "description": "Vous êtes intuitif.", "strengths": ["Intuition"], "weaknesses": ["Nervosité"], "career": ["Enseignant spirituel"], "relationships": "Vous avez besoin de profondeur spirituelle.", "luckyNumbers": [11, 2, 29] },
+    "22": { "title": "Le Maître Constructeur", "description": "Vous êtes visionnaire.", "strengths": ["Vision"], "weaknesses": ["Pression"], "career": ["Architecte"], "relationships": "Vous avez besoin de soutien.", "luckyNumbers": [22, 4, 13] },
+    "33": { "title": "Le Maître Enseignant", "description": "Vous êtes le soignant ultime.", "strengths": ["Compassion"], "weaknesses": ["Martyre"], "career": ["Guérisseur"], "relationships": "Vous donnez inconditionnellement.", "luckyNumbers": [33, 6, 15] }
+  },
+  "birthdayNumber": {
+    "1": { "trait": "Indépendant" }, "2": { "trait": "Coopératif" }, "3": { "trait": "Créatif" }, "4": { "trait": "Pratique" }, "5": { "trait": "Aventureux" }, "6": { "trait": "Responsable" }, "7": { "trait": "Analytique" }, "8": { "trait": "Ambitieux" }, "9": { "trait": "Compatissant" }, "11": { "trait": "Intuitif" }, "22": { "trait": "Visionnaire" }
+  },
+  "expressionNumber": {
+    "1": { "destiny": "Diriger" }, "2": { "destiny": "Harmoniser" }, "3": { "destiny": "Exprimer" }, "4": { "destiny": "Construire" }, "5": { "destiny": "Explorer" }, "6": { "destiny": "Soigner" }, "7": { "destiny": "Chercher la vérité" }, "8": { "destiny": "Réussir" }, "9": { "destiny": "Servir" }, "11": { "destiny": "Inspirer" }, "22": { "destiny": "Manifester" }, "33": { "destiny": "Enseigner" }
+  },
+  "soulUrgeNumber": {
+    "1": { "desire": "Être indépendant" }, "2": { "desire": "Créer la paix" }, "3": { "desire": "S'exprimer" }, "4": { "desire": "Créer l'ordre" }, "5": { "desire": "Expérimenter la liberté" }, "6": { "desire": "Prendre soin des autres" }, "7": { "desire": "Comprendre les mystères" }, "8": { "desire": "Réussir" }, "9": { "desire": "Améliorer le monde" }, "11": { "desire": "Inspirer" }, "22": { "desire": "Construire quelque chose de durable" }, "33": { "desire": "Servir l'humanité" }
+  },
+  "personalityNumber": {
+    "1": { "impression": "Confiant" }, "2": { "impression": "Gentil" }, "3": { "impression": "Charmant" }, "4": { "impression": "Fiable" }, "5": { "impression": "Dynamique" }, "6": { "impression": "Chaleureux" }, "7": { "impression": "Mystérieux" }, "8": { "impression": "Puissant" }, "9": { "impression": "Compatissant" }, "11": { "impression": "Inspirant" }, "22": { "impression": "Capable" }
+  },
+  "maturityNumber": {
+    "1": { "later": "Vous deviendrez plus indépendant" }, "2": { "later": "Vous développerez la diplomatie" }, "3": { "later": "Vous vous exprimerez créativement" }, "4": { "later": "Vous construirez des bases stables" }, "5": { "later": "Vous embrasserez le changement" }, "6": { "later": "Vous prendrez plus de responsabilités" }, "7": { "later": "Vous chercherez la compréhension spirituelle" }, "8": { "later": "Vous réussirez matériellement" }, "9": { "later": "Vous servirez pleinement" }, "11": { "later": "Vous inspirerez les autres" }, "22": { "later": "Vous manifesterez de grandes visions" }
+  },
+  "personalYearNumber": {
+    "1": { "year": "Nouveaux départs" }, "2": { "year": "Coopération" }, "3": { "year": "Créativité" }, "4": { "year": "Travail acharné" }, "5": { "year": "Changement" }, "6": { "year": "Responsabilité" }, "7": { "year": "Introspection" }, "8": { "year": "Réalisations" }, "9": { "year": "Achèvement" }
+  },
+  "karmicDebt": {
+    "13": { "number": "13/4", "meaning": "Dette karmique de paresse." },
+    "14": { "number": "14/5", "meaning": "Dette karmique de mauvais usage de la liberté." },
+    "16": { "number": "16/7", "meaning": "Dette karmique d'ego." },
+    "19": { "number": "19/1", "meaning": "Dette karmique de mauvais usage du pouvoir." }
+  }
+}

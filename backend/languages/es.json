@@ -1,0 +1,48 @@
+{
+  "lifePathNumber": {
+    "1": {
+      "title": "El Líder",
+      "description": "Eres un líder nato con fuerte independencia y determinación.",
+      "strengths": ["Liderazgo", "Independencia", "Innovación"],
+      "weaknesses": ["Terquedad", "Impaciencia"],
+      "career": ["Emprendedor", "CEO", "Gerente"],
+      "relationships": "Necesitas una pareja que respete tu independencia.",
+      "luckyNumbers": [1, 10, 19, 28]
+    },
+    "2": { "title": "El Pacificador", "description": "Eres diplomático y sensible.", "strengths": ["Diplomacia"], "weaknesses": ["Indecisión"], "career": ["Consejero"], "relationships": "Prosperas en asociaciones.", "luckyNumbers": [2, 11, 20, 29] },
+    "3": { "title": "El Comunicador", "description": "Eres expresivo y creativo.", "strengths": ["Creatividad"], "weaknesses": ["Dispersión"], "career": ["Artista"], "relationships": "Necesitas creatividad.", "luckyNumbers": [3, 12, 21, 30] },
+    "4": { "title": "El Constructor", "description": "Eres práctico y disciplinado.", "strengths": ["Disciplina"], "weaknesses": ["Rigidez"], "career": ["Ingeniero"], "relationships": "Valoras la estabilidad.", "luckyNumbers": [4, 13, 22, 31] },
+    "5": { "title": "El Aventurero", "description": "Eres versátil y libre.", "strengths": ["Adaptabilidad"], "weaknesses": ["Inquietud"], "career": ["Viajero"], "relationships": "Necesitas libertad.", "luckyNumbers": [5, 14, 23] },
+    "6": { "title": "El Cuidador", "description": "Eres responsable y cariñoso.", "strengths": ["Compasión"], "weaknesses": ["Preocupación"], "career": ["Maestro"], "relationships": "Eres devoto.", "luckyNumbers": [6, 15, 24] },
+    "7": { "title": "El Buscador", "description": "Eres analítico y espiritual.", "strengths": ["Sabiduría"], "weaknesses": ["Aislamiento"], "career": ["Investigador"], "relationships": "Necesitas conexión intelectual.", "luckyNumbers": [7, 16, 25] },
+    "8": { "title": "El Poderoso", "description": "Eres ambicioso y exitoso.", "strengths": ["Ambición"], "weaknesses": ["Materialismo"], "career": ["Ejecutivo"], "relationships": "Buscas socios ambiciosos.", "luckyNumbers": [8, 17, 26] },
+    "9": { "title": "El Humanitario", "description": "Eres compasivo e idealista.", "strengths": ["Generosidad"], "weaknesses": ["Impracticidad"], "career": ["Trabajador humanitario"], "relationships": "Buscas conexiones profundas.", "luckyNumbers": [9, 18, 27] },
+    "11": { "title": "El Mensajero Espiritual", "description": "Eres intuitivo e inspirador.", "strengths": ["Intuición"], "weaknesses": ["Nerviosismo"], "career": ["Maestro espiritual"], "relationships": "Necesitas profundidad espiritual.", "luckyNumbers": [11, 2, 29] },
+    "22": { "title": "El Constructor Maestro", "description": "Eres visionario y práctico.", "strengths": ["Visión"], "weaknesses": ["Presión"], "career": ["Arquitecto"], "relationships": "Necesitas apoyo para tus visiones.", "luckyNumbers": [22, 4, 13] },
+    "33": { "title": "El Maestro", "description": "Eres el cuidador supremo.", "strengths": ["Compasión"], "weaknesses": ["Martirio"], "career": ["Sanador"], "relationships": "Das incondicionalmente.", "luckyNumbers": [33, 6, 15] }
+  },
+  "birthdayNumber": {
+    "1": { "trait": "Independiente" }, "2": { "trait": "Cooperativo" }, "3": { "trait": "Creativo" }, "4": { "trait": "Práctico" }, "5": { "trait": "Aventurero" }, "6": { "trait": "Responsable" }, "7": { "trait": "Analítico" }, "8": { "trait": "Ambicioso" }, "9": { "trait": "Compasivo" }, "11": { "trait": "Intuitivo" }, "22": { "trait": "Visionario" }
+  },
+  "expressionNumber": {
+    "1": { "destiny": "Liderar" }, "2": { "destiny": "Armonizar" }, "3": { "destiny": "Expresar" }, "4": { "destiny": "Construir" }, "5": { "destiny": "Explorar" }, "6": { "destiny": "Cuidar" }, "7": { "destiny": "Buscar verdad" }, "8": { "destiny": "Lograr éxito" }, "9": { "destiny": "Servir" }, "11": { "destiny": "Inspirar" }, "22": { "destiny": "Manifestar" }, "33": { "destiny": "Enseñar" }
+  },
+  "soulUrgeNumber": {
+    "1": { "desire": "Ser independiente" }, "2": { "desire": "Crear paz" }, "3": { "desire": "Expresarte" }, "4": { "desire": "Crear orden" }, "5": { "desire": "Experimentar libertad" }, "6": { "desire": "Cuidar otros" }, "7": { "desire": "Entender misterios" }, "8": { "desire": "Lograr éxito" }, "9": { "desire": "Mejorar el mundo" }, "11": { "desire": "Inspirar" }, "22": { "desire": "Construir algo duradero" }, "33": { "desire": "Servir humanidad" }
+  },
+  "personalityNumber": {
+    "1": { "impression": "Confiado" }, "2": { "impression": "Gentil" }, "3": { "impression": "Encantador" }, "4": { "impression": "Confiable" }, "5": { "impression": "Dinámico" }, "6": { "impression": "Cálido" }, "7": { "impression": "Misterioso" }, "8": { "impression": "Poderoso" }, "9": { "impression": "Compasivo" }, "11": { "impression": "Inspirador" }, "22": { "impression": "Capaz" }
+  },
+  "maturityNumber": {
+    "1": { "later": "Serás más independiente" }, "2": { "later": "Desarrollarás diplomacia" }, "3": { "later": "Te expresarás creativamente" }, "4": { "later": "Construirás bases estables" }, "5": { "later": "Abrazarás el cambio" }, "6": { "later": "Asumirás más responsabilidad" }, "7": { "later": "Buscarás comprensión espiritual" }, "8": { "later": "Lograrás éxito material" }, "9": { "later": "Servirás plenamente" }, "11": { "later": "Inspirarás a otros" }, "22": { "later": "Manifestarás grandes visiones" }
+  },
+  "personalYearNumber": {
+    "1": { "year": "Nuevos comienzos" }, "2": { "year": "Cooperación" }, "3": { "year": "Creatividad" }, "4": { "year": "Trabajo duro" }, "5": { "year": "Cambio" }, "6": { "year": "Responsabilidad" }, "7": { "year": "Introspección" }, "8": { "year": "Logros" }, "9": { "year": "Finalización" }
+  },
+  "karmicDebt": {
+    "13": { "number": "13/4", "meaning": "Deuda kármica de pereza. Enfócate en disciplina." },
+    "14": { "number": "14/5", "meaning": "Deuda kármica de mal uso de libertad." },
+    "16": { "number": "16/7", "meaning": "Deuda kármica de ego." },
+    "19": { "number": "19/1", "meaning": "Deuda kármica de mal uso de poder." }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "lifePathNumber": {
+    "1": {
+      "title": "The Leader",
+      "description": "Aap ek natural-born leader hain jo strong independence aur determination ke saath hain. Aapka path hai naye ideas ko pioneer karna aur initiative lena.",
+      "strengths": ["Leadership", "Independence", "Innovation", "Courage", "Determination"],
+      "weaknesses": ["Stubbornness", "Impatience", "Domineering nature", "Self-centeredness"],
+      "career": ["Entrepreneur", "CEO", "Manager", "Inventor", "Designer"],
+      "relationships": "Aapko ek aisa partner chahiye jo aapki independence ko respect kare aur aapki ambitions ko support kare.",
+      "luckyNumbers": [1, 10, 19, 28]
+    },
+    "2": {
+      "title": "The Peacemaker",
+      "description": "Aap diplomatic, sensitive aur cooperative hain. Aapka path hai harmony create karna aur partnerships build karna.",
+      "strengths": ["Diplomacy", "Cooperation", "Sensitivity", "Patience", "Intuition"],
+      "weaknesses": ["Over-sensitivity", "Indecisiveness", "Dependency", "Passivity"],
+      "career": ["Counselor", "Mediator", "Teacher", "Diplomat", "Social Worker"],
+      "relationships": "Aap partnerships mein thrive karte hain aur deep emotional connections seek karte hain.",
+      "luckyNumbers": [2, 11, 20, 29]
+    },
+    "3": {
+      "title": "The Creative Communicator",
+      "description": "Aap expressive, creative aur social hain. Aapka path hai self-expression aur doosron ko joy dena.",
+      "strengths": ["Creativity", "Communication", "Optimism", "Social Skills", "Artistic Talent"],
+      "weaknesses": ["Scattered Energy", "Superficiality", "Exaggeration", "Mood Swings"],
+      "career": ["Artist", "Writer", "Performer", "Designer", "Marketing Professional"],
+      "relationships": "Aapko ek aisa partner chahiye jo aapki creativity aur social nature ko appreciate kare.",
+      "luckyNumbers": [3, 12, 21, 30]
+    },
+    "4": {
+      "title": "The Builder",
+      "description": "Aap practical, disciplined aur hardworking hain. Aapka path hai solid foundations aur systems create karna.",
+      "strengths": ["Discipline", "Organization", "Reliability", "Practicality", "Loyalty"],
+      "weaknesses": ["Rigidity", "Stubbornness", "Narrow-mindedness", "Workaholic Tendencies"],
+      "career": ["Engineer", "Accountant", "Architect", "Manager", "Administrator"],
+      "relationships": "Aap relationships mein stability aur commitment ko value dete hain.",
+      "luckyNumbers": [4, 13, 22, 31]
+    },
+    "5": {
+      "title": "The Freedom Seeker",
+      "description": "Aap adventurous, versatile aur freedom-loving hain. Aapka path hai life ko fully experience karna aur change ko embrace karna.",
+      "strengths": ["Adaptability", "Versatility", "Curiosity", "Enthusiasm", "Resourcefulness"],
+      "weaknesses": ["Restlessness", "Impulsiveness", "Irresponsibility", "Inconsistency"],
+      "career": ["Travel Agent", "Sales", "Journalist", "Entrepreneur", "Event Planner"],
+      "relationships": "Aapko relationships mein freedom aur variety chahiye.",
+      "luckyNumbers": [5, 14, 23]
+    },
+    "6": {
+      "title": "The Nurturer",
+      "description": "Aap responsible, caring aur service-oriented hain. Aapka path hai harmony create karna aur doosron ki care karna.",
+      "strengths": ["Compassion", "Responsibility", "Nurturing", "Harmony", "Service"],
+      "weaknesses": ["Perfectionism", "Worry", "Self-righteousness", "Interference"],
+      "career": ["Teacher", "Nurse", "Counselor", "Interior Designer", "Chef"],
+      "relationships": "Aap devoted hain aur stable, harmonious relationships seek karte hain.",
+      "luckyNumbers": [6, 15, 24]
+    },
+    "7": {
+      "title": "The Seeker",
+      "description": "Aap analytical, spiritual aur introspective hain. Aapka path hai truth seek karna aur life ke mysteries ko understand karna.",
+      "strengths": ["Analytical Mind", "Intuition", "Wisdom", "Spirituality", "Perfectionism"],
+      "weaknesses": ["Aloofness", "Skepticism", "Isolation", "Overthinking"],
+      "career": ["Researcher", "Analyst", "Scientist", "Philosopher", "Spiritual Teacher"],
+      "relationships": "Aapko relationships mein intellectual aur spiritual connection chahiye.",
+      "luckyNumbers": [7, 16, 25]
+    },
+    "8": {
+      "title": "The Powerhouse",
+      "description": "Aap ambitious, authoritative aur success-oriented hain. Aapka path hai material success aur personal power achieve karna.",
+      "strengths": ["Ambition", "Leadership", "Business Acumen", "Confidence", "Efficiency"],
+      "weaknesses": ["Materialism", "Workaholism", "Domination", "Impatience"],
+      "career": ["Executive", "Banker", "Real Estate", "Entrepreneur", "Lawyer"],
+      "relationships": "Aap aise partners seek karte hain jo aapki ambitions aur drive ko understand karein.",
+      "luckyNumbers": [8, 17, 26]
+    },
+    "9": {
+      "title": "The Humanitarian",
+      "description": "Aap compassionate, idealistic aur humanitarian hain. Aapka path hai humanity ko serve karna aur world ko better banana.",
+      "strengths": ["Compassion", "Idealism", "Generosity", "Wisdom", "Artistic Talent"],
+      "weaknesses": ["Impracticality", "Emotional Volatility", "Martyrdom", "Disconnection"],
+      "career": ["Humanitarian Worker", "Artist", "Teacher", "Healer", "Counselor"],
+      "relationships": "Aap deep, meaningful connections seek karte hain universal love ke saath.",
+      "luckyNumbers": [9, 18, 27]
+    },
+    "11": {
+      "title": "The Spiritual Messenger",
+      "description": "Aap intuitive, inspirational aur spiritually aware hain. Aapka path hai doosron ko enlighten karna aur spiritual guide ke roop mein serve karna.",
+      "strengths": ["Intuition", "Inspiration", "Idealism", "Spiritual Awareness", "Charisma"],
+      "weaknesses": ["Nervousness", "Impracticality", "Fanaticism", "Self-doubt"],
+      "career": ["Spiritual Teacher", "Motivational Speaker", "Artist", "Healer", "Counselor"],
+      "relationships": "Aapko relationships mein spiritual aur emotional depth chahiye.",
+      "luckyNumbers": [11, 2, 29]
+    },
+    "22": {
+      "title": "The Master Builder",
+      "description": "Aap ek visionary hain jo dreams ko reality mein turn karne ki ability rakhte hain. Aapka path hai lasting value ki kuch build karna.",
+      "strengths": ["Vision", "Practicality", "Leadership", "Discipline", "Manifestation"],
+      "weaknesses": ["Pressure", "Overwhelm", "Perfectionism", "Anxiety"],
+      "career": ["Architect", "Engineer", "CEO", "Politician", "Social Reformer"],
+      "relationships": "Aapko ek aisa partner chahiye jo aapke grand visions ko support kare.",
+      "luckyNumbers": [22, 4, 13]
+    },
+    "33": {
+      "title": "The Master Teacher",
+      "description": "Aap ultimate nurturer aur teacher hain. Aapka path hai humanity ko uplift karna love aur service ke through.",
+      "strengths": ["Compassion", "Healing", "Teaching", "Selflessness", "Wisdom"],
+      "weaknesses": ["Martyrdom", "Emotional Burden", "Unrealistic Expectations"],
+      "career": ["Teacher", "Healer", "Spiritual Leader", "Counselor", "Humanitarian"],
+      "relationships": "Aap unconditionally dete hain aur aise partners seek karte hain jo aapki service ko appreciate karein.",
+      "luckyNumbers": [33, 6, 15]
+    }
+  },
+  "birthdayNumber": {
+    "1": { "trait": "Independent aur ambitious" },
+    "2": { "trait": "Cooperative aur diplomatic" },
+    "3": { "trait": "Creative aur expressive" },
+    "4": { "trait": "Practical aur organized" },
+    "5": { "trait": "Adventurous aur freedom-loving" },
+    "6": { "trait": "Responsible aur caring" },
+    "7": { "trait": "Analytical aur spiritual" },
+    "8": { "trait": "Ambitious aur powerful" },
+    "9": { "trait": "Compassionate aur humanitarian" },
+    "11": { "trait": "Intuitive aur inspirational" },
+    "22": { "trait": "Visionary aur practical" }
+  },
+  "expressionNumber": {
+    "1": { "destiny": "Lead karna aur innovate karna" },
+    "2": { "destiny": "Harmony aur partnerships create karna" },
+    "3": { "destiny": "Creativity aur joy express karna" },
+    "4": { "destiny": "Solid foundations build karna" },
+    "5": { "destiny": "Freedom aur change experience karna" },
+    "6": { "destiny": "Nurture aur serve karna" },
+    "7": { "destiny": "Truth aur wisdom seek karna" },
+    "8": { "destiny": "Material success achieve karna" },
+    "9": { "destiny": "Humanity ko serve karna" },
+    "11": { "destiny": "Inspire aur enlighten karna" },
+    "22": { "destiny": "Grand visions manifest karna" },
+    "33": { "destiny": "Humanity ko teach aur heal karna" }
+  },
+  "soulUrgeNumber": {
+    "1": { "desire": "Independent hona aur lead karna" },
+    "2": { "desire": "Peace aur harmony create karna" },
+    "3": { "desire": "Creatively khud ko express karna" },
+    "4": { "desire": "Order aur stability create karna" },
+    "5": { "desire": "Freedom aur adventure experience karna" },
+    "6": { "desire": "Doosron ki care aur nurture karna" },
+    "7": { "desire": "Life ke mysteries ko understand karna" },
+    "8": { "desire": "Success aur recognition achieve karna" },
+    "9": { "desire": "World ko better place banana" },
+    "11": { "desire": "Doosron ko inspire aur uplift karna" },
+    "22": { "desire": "Lasting value ki kuch build karna" },
+    "33": { "desire": "Humanity ko serve aur heal karna" }
+  },
+  "personalityNumber": {
+    "1": { "impression": "Confident aur independent" },
+    "2": { "impression": "Gentle aur diplomatic" },
+    "3": { "impression": "Charming aur expressive" },
+    "4": { "impression": "Reliable aur practical" },
+    "5": { "impression": "Dynamic aur adventurous" },
+    "6": { "impression": "Warm aur responsible" },
+    "7": { "impression": "Mysterious aur intellectual" },
+    "8": { "impression": "Powerful aur successful" },
+    "9": { "impression": "Compassionate aur wise" },
+    "11": { "impression": "Inspiring aur charismatic" },
+    "22": { "impression": "Visionary aur capable" }
+  },
+  "maturityNumber": {
+    "1": { "later": "Aap zyada independent aur self-reliant banenge" },
+    "2": { "later": "Aap greater diplomacy aur cooperation develop karenge" },
+    "3": { "later": "Aap khud ko zyada creatively express karenge" },
+    "4": { "later": "Aap zyada stable foundations build karenge" },
+    "5": { "later": "Aap zyada freedom aur change embrace karenge" },
+    "6": { "later": "Aap zyada responsibility aur service lenge" },
+    "7": { "later": "Aap deeper spiritual understanding seek karenge" },
+    "8": { "later": "Aap greater material success achieve karenge" },
+    "9": { "later": "Aap humanity ko zyada fully serve karenge" },
+    "11": { "later": "Aap doosron ko inspire aur enlighten karenge" },
+    "22": { "later": "Aap apne grandest visions manifest karenge" }
+  },
+  "personalYearNumber": {
+    "1": { "year": "Naye beginnings, fresh starts, aur initiative lena" },
+    "2": { "year": "Cooperation, patience, aur relationships build karna" },
+    "3": { "year": "Creativity, self-expression, aur social activities" },
+    "4": { "year": "Hard work, foundations build karna, aur organization" },
+    "5": { "year": "Change, freedom, aur naye experiences" },
+    "6": { "year": "Responsibility, family, aur doosron ki service" },
+    "7": { "year": "Introspection, spiritual growth, aur rest" },
+    "8": { "year": "Achievement, recognition, aur material success" },
+    "9": { "year": "Completion, letting go, aur humanitarian service" }
+  },
+  "karmicDebt": {
+    "13": {
+      "number": "13/4",
+      "meaning": "Past lives mein laziness ya shortcuts lene se related karmic debt. Hard work aur discipline par focus karein."
+    },
+    "14": {
+      "number": "14/5",
+      "meaning": "Freedom ke misuse se related karmic debt. Moderation aur responsibility seekhein."
+    },
+    "16": {
+      "number": "16/7",
+      "meaning": "Ego aur relationships se related karmic debt. Humility aur spiritual growth par focus karein."
+    },
+    "19": {
+      "number": "19/1",
+      "meaning": "Power ke misuse se related karmic debt. Doosron ko serve karna aur humility practice karna seekhein."
+    }
+  }
+}
